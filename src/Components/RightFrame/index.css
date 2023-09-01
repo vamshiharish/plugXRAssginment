@@ -1,0 +1,8 @@
+.right-container{
+    width: 20vw;
+    height: 91.4vh;
+    background-color: #E1EAED;
+    resize: both;
+    overflow: auto;
+    border: 2px solid #003442;
+}
